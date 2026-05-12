@@ -1,7 +1,7 @@
 # CVE-2021-46068
 
 ### Exploit Title: Vehicle Service Management System - 'MyAccount' Stored Cross Site Scripting (XSS)
-### Exploit Author: <a href="https://www.plsanu.com">P.L.Sanu</a>
+### Exploit Author: <a href="https://www.plsanu.com">SANU P.L</a>
 ### CVE: CVE-2021-46068
 ### CVSS: 4.8 MEDIUM
 ### References: 
